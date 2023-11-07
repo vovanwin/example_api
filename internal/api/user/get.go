@@ -2,7 +2,6 @@ package user
 
 import (
 	"context"
-
 	"github.com/olezhek28/clean-architecture/internal/converter"
 	desc "github.com/olezhek28/clean-architecture/pkg/user_v1"
 )
